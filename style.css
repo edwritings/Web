@@ -1,0 +1,34 @@
+html {
+    background-color: black;
+    color: white;
+}
+h1 {
+    text-align: center;
+    size: 30px;
+}
+.p1 {
+    size: 30px;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+  a:hover {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+  a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
