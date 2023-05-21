@@ -6,10 +6,15 @@ html {
 h1 {
     text-align: left;
     font-size: 50px;
+    padding-left: 10px;
+    font-weight: bolder;
 }
 .link {
     font-size: 40px;
     text-align: right;
+    padding-right: 30px;
+    padding-top: 10px;
+    font-weight: bold   ;
 }
 a:link {
     color: white;
