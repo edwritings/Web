@@ -6,8 +6,9 @@ h1 {
     text-align: center;
     size: 30px;
 }
-.p1 {
+.link {
     size: 30px;
+    text-align: right;
 }
 a:link {
     color: white;
